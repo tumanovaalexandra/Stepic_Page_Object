@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="lesson36_ste5_2.show" />
+          <option value="lesson36_ste5_2.quiz" />
+          <option value="lesson36_ste5_2.view" />
+          <option value="lesson36_ste5_2.attempt__actions" />
+          <option value="lesson36_step5_3.browser.find_element" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
